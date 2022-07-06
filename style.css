@@ -1,0 +1,195 @@
+body{
+  margin: 0px;
+  font-family: 'Gantari', sans-serif;
+}
+.orange-color{
+  color: #FF5959;
+}
+.white-color{
+  color: aliceblue;
+}
+.fst-bnr{
+  text-align: center;
+  background-image: url(images/donation3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:850px ;
+}
+.fst-bnr h1{
+  margin: 0px;
+  font-size: 55px;
+  padding-top:150px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.fst-bnr p{
+  margin-top: 25px;
+  font-size: 22px; 
+}
+.link-btn{
+  background-color:#FF5959;
+  padding: 15px 30px;
+  text-decoration: none;
+  color: aliceblue;
+  border-radius: 8px;
+  margin-top: 20px;
+  display: inline-block;
+
+}
+.one{
+  text-align: center;
+
+}
+.one h1{
+  font-weight:bold;
+  font-size: 55px;
+  margin-bottom: 0px;
+}
+.one p{
+  color: #383838fa;
+}
+.tow{
+  display: flex;
+  margin: auto;
+  width: 70%;
+}
+.tow a{
+  text-decoration: none;
+}
+.taka{
+  padding: 20px 20px;
+  background-color: #faf8f8;
+  color: gray;
+  border-radius: 4px;
+  margin: 50px;
+  
+}
+.taka:hover{
+  color: #e76b55;
+  border: 1px solid #FF5959;
+}
+.three{
+  color: darkgray;
+  text-align: center;
+}
+.three input{
+  font-size: 30px;
+  border:none;
+  margin-left: 20px
+}
+.three hr{
+  width: 60%;
+}
+.second-bnr{
+  margin-bottom: 150px;
+}
+.third-bnr{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+
+}
+.third-bnr h1{
+  font-size: 55px;
+  margin-bottom: 5px;
+}
+.third-bnr p{
+  color: gray;
+}
+.fourth-bnr {
+  display: flex;
+  margin: 150px 200px;
+  
+}
+.box{
+  padding: 40px 50px;
+  width: 30%;
+  margin-left: 30px;
+  border-radius: 5px;
+  
+}
+.col1{
+  background-color: #d1ecc6;
+}
+.col2{
+  background-color: #ecbebe;
+}
+.col3{
+  background-color: #f0f3c4;
+}
+.box p{
+  text-align: justify;
+  color: grey;
+}
+.grab{
+  display: flex;
+  justify-content:center;
+  
+}
+.fift-bnr h1{
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+  margin-bottom: 80px;
+}
+.six-part{
+  text-align: center;
+}
+.six-part h1{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.six-part p{
+  margin-bottom: 50px;
+  color: gray;
+}
+.second{
+  padding: 60px 50px;
+  background-color: #ffeaa7;
+  width: 50%;
+  margin: auto;
+  border-radius: 5px;
+}
+.second input{
+  border: none;
+  padding: 8px 40px;
+  background-color: lightgray;
+  border-radius: 5px;
+  font-size: 25px;
+  color:gray ;
+  margin: 0px;
+}
+.second button{
+  padding: 8px 0px;
+  margin-left: -6px;
+  font-size: 25px;
+  border: none;
+  background-color: tomato;
+  color: aliceblue;
+  border-radius:8px;
+
+}
+footer{
+  text-align: center;
+  background-color: #030335;
+  padding: 20px 0px;
+  margin-top: 30px;
+}
+.design{
+  margin-bottom: 0px;
+  font-family:'Playball', cursive;
+  font-size: 30px;
+}
+.container{
+  width: 80%;
+  margin: auto ;
+  display: block;
+}
+
+
+
+
+
+  
+
+
